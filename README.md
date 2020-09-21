@@ -1,4 +1,4 @@
-#Project Demo availabe at
+### Project demo available at :
 https://dakshaknagrale.in/facedetectbrain
 
-The project is under-development.
+The project is currently under-development.
